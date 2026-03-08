@@ -1,31 +1,70 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Vijay Kardak</h1>
+<h3 align="center">A passionate Linux & DevOps learner from India 🇮🇳</h3>
 
-<!--
-**vijaykardak96k-dev/vijaykardak96k-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Linux, DevOps, Ansible**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 💫 About Me:
-I am currently working on Devops and devops tools
+- 💬 Ask me about **Linux, Networking, DevOps**
 
+- 📫 How to reach me **your-email@example.com**
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vijay_kardak_07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vijay kardak ) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Vijay kardak ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vijaykardak96k@gmail.com) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vijaykardak96k-dev &theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=vijaykardak96k-dev &theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vijaykardak96k-dev &theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- ⚡ Fun fact **I love exploring Linux systems and working in Termux**
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vijaykardak96k-dev &icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🌐 Connect with me
+
+<p align="left">
+<a href="https://github.com/vijaykardak96k-dev" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="30" width="40" />
+</a>
+</p>
+
+---
+
+### 🛠 Languages and Tools
+
+<p align="left"> 
+
+<a href="https://www.linux.org/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/> 
+</a>
+
+<a href="https://git-scm.com/" target="_blank"> 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/> 
+</a>
+
+<a href="https://www.ansible.com/" target="_blank"> 
+<img src="https://cdn.worldvectorlogo.com/logos/ansible.svg" width="40" height="40"/> 
+</a>
+
+<a href="https://www.docker.com/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/> 
+</a>
+
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=vijaykardak96k-dev&show_icons=true&locale=en" />
+</p>
+
+---
+
+### 🔥 GitHub Streak
+
+<p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vijaykardak96k-dev" />
+</p>
+
+---
+
+### 📈 Top Languages
+
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vijaykardak96k-dev&show_icons=true&locale=en&layout=compact" />
+</p>
