@@ -32,9 +32,7 @@ Passionate about building scalable, reliable, and automated cloud systems.
 <a href="mailto:vijaykardak96k@gmail.com" target="blank">
 <img align="center" src="https://img.icons8.com/color/48/gmail.png" height="30" width="40"/>
 </a>
-<a href="https://github.com/vijaykardak96k-dev" target="blank">
-<img align="center" src="https://img.icons8.com/ios-glyphs/48/github.png" height="30" width="40"/>
-</a>
+
 </p>
 
 ---
