@@ -1,7 +1,6 @@
-<div align="center">
-  <img src="https://github.com/manojmantha/manojmantha/blob/main/banner.png" alt="GitHub Banner" width="800"/>
-</div>
-
+<p align="center">
+  <img src="banner.png" alt="GitHub Banner" width="800"/>
+</p>
 <h1 align="center">Hi 👋, Vijay Kardak</h1>
 <h3 align="center">DevOps Engineer | AWS | Kubernetes | Terraform | CI/CD</h3>
 
